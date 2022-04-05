@@ -33,6 +33,10 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 * [Ile de France](#Ile-de-France)
 	* [Cergy](#Cergy)
 	* [Paris](#Paris)
+* [Normandie](#Normandie)
+	* [Caen](#Caen)
+	* [Le Havre](#LeHavre)
+	* [Rouen](#Rouen)
 * [Nouvelle Aquitaine](#Nouvelle-Aquitaine)
 	* [Bordeaux](#Bordeaux)
 	* [Limoges](#Limoges)
@@ -729,3 +733,14 @@ initiale/smiag1212)
 
 - [Licence d'Informatique](http://www.univ-tln.fr/Licence-Informatique-parcours-Informatique.html)
 - [Master Informatique: Développement et Ingénierie des Données (DID)](http://www.univ-tln.fr/Master-Informatique-parcours-Developpement-et-Ingenierie-des-Donnees.html)
+
+## Normandie <a id = "Normandie"></a>
+
+### Caen <a id = "Caen"></a>
+### Le Havre <a id = "LeHavre"></a>
+- [Licence d'Informatique](https://www.univ-lehavre.fr/spip.php?formation4)
+- BUT
+    - [BUT Informatique](https://www-iut.univ-lehavre.fr/info) (Parcours *Réalisation d'applications : conception, développement, validation*)
+    - [BUT GEII](https://www-iut.univ-lehavre.fr/geii) (Parcours *Electricité et maîtrise de l’énergie* et parcours *Automatisme et Informatique Industrielle*
+- [Master informatique IWOCS](https://www.univ-lehavre.fr/spip.php?formation22) (Ingénierie du Web, des Objets Communicants et des Systèmes Complexes)
+### Rouen <a id = "Rouen"></a>
